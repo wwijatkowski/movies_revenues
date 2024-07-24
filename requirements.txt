@@ -1,0 +1,5 @@
+pyspark
+requests
+python-dotenv
+matplotlib
+dotenv
