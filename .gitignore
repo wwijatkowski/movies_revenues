@@ -11,3 +11,8 @@ __pycache__/
 # Log files
 logs/
 *.log
+
+.DS_Store
+
+# Output
+output/
